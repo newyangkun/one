@@ -1,0 +1,19 @@
+{
+  "name": "fsmingqiu",
+  "version": "1.0.0",
+  "description": "a little website for memory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/newyangkun/one.git"
+  },
+  "author": "YangKun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newyangkun/one/issues"
+  },
+  "homepage": "https://github.com/newyangkun/one#readme"
+}
